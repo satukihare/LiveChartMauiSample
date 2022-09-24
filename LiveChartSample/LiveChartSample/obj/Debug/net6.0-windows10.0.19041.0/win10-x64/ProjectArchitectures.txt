@@ -1,0 +1,1 @@
+C:\Users\sathu\source\repos\LiveChartSample\LiveChartSample\LiveChartSample.csproj;x64
